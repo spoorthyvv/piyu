@@ -1,0 +1,1 @@
+// inspired by: http://speckyboy.com/2013/09/15/simplified-football-club-logos/
